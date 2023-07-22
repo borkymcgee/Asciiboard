@@ -1,6 +1,6 @@
 /**************************************************************************
-* Asciiboard, Copyright (C) 2022 Juno Presken
-* E-mail: juno.presken+github@protonmail.com
+* Asciiboard, Copyright (C) 2023 Juno Presken
+* E-mail: juno.presken+Asciiboard@protonmail.com
 *
 * This program is free software: you can redistribute it and/or modify it
 * under the terms of the GNU Affero General Public License as published by the
@@ -18,7 +18,7 @@
 **************************************************************************/
 
 #include <BleKeyboard.h>
-#include <Wire.h> // Needed for I2C   B"B@BB
+#include <Wire.h> // Needed for I2C
 #include <SparkFun_MAX1704x_Fuel_Gauge_Arduino_Library.h>//for battery
 
 
